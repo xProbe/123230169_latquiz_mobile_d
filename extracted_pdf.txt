@@ -1,0 +1,41 @@
+--- Page 1 ---
+KEMENTERIAN RISET, TEKNOLOGI, DAN PENDIDIKAN TINGGI
+UNIVERSITAS PEMBANGUNAN NASIONAL “VETERAN” YOGYAKARTA
+JL. SWK 104 (Lingkar Utara) Condongcatur, Yogyakarta 55283 Telp.(0274)486188, 486733, Fax. 486400
+Jl. Babarsari 2, Tambakbayan, Yogyakarta 55281 Telp.(0274)486911
+Email : info@upnyk.ac.id. Homepage : http://www.upnyk.ac.id
+LATIHAN UJIAN MATA KULIAH PRAKTIKUM SEMESTER GENAP TA. 2025/2026
+Mata Kuliah : Praktikum Pemrograman Aplikasi Mobile
+Kelas
+Asisten
+:
+:
+IF - D
+Umar Andika Fatihariz
+Diandra Yusuf Arrafi
+A. Soal
+1. Login Page [20 Poin]
+ Buat halaman login dengan 2 inputan (Username dan Password) (5 Poin)
+ Buat error handling dan validasi username dan password dengan ketentuan
+(10 Poin):
+o Username dan password tidak boleh kosong (+4)
+o Username yang valid: nama panggilan kalian (+2)
+o Password yang valid: 3 digit terakhir NIM kalian (+2)
+o Field di password bisa diatur visibilitasnya (on / off) (+2)
+ Buat tombol yang bisa berpindah ke halaman Home Page jika username dan
+password valid, sambal membawa data username (5 Poin)
+2. Home Page [35 Poin + 5 Poin (*)]
+ Menampilkan username yang sudah login (10 Poin)
+ Menampilkan TextField search (10 Poin)
+ * Search mampu berfungsi / berjalan sebagaimana mestinya untuk memfilter
+list sesuai keinginan (5 Poin*)
+ Menampilkan list card yang berisi highlight informasi tentang Game (10
+Poin)
+ Navigasi ke Detail Page jika salah satu card ditekan (5 Poin)
+3. Detail Page [25 Poin + 5 Poin (*)]
+ Memiliki tombol back dan berfungsi (5 Poin)
+ Menampilkan semua informasi yang ada (15 Poin)
+ Terdapat tombol like yang bisa berinteraksi (10 Poin)
+--- Page 2 ---
+4. Contoh tampilan
+Selamat Mengerjakan
